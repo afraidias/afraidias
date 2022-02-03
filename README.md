@@ -16,6 +16,6 @@
 
 ![Afraidias's GitHub stats](https://github-readme-stats.vercel.app/api?username=afraidias&show_icons=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afraidias&repo=devs-community)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afraidias&repo=devs-community)](https://github.com/afraidias/devs-community)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afraidias&layout=compact)
