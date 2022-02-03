@@ -14,8 +14,8 @@
 📈 **My GitHub Stats:**
 </br>
 
-![Afraidias's GitHub stats](https://github-readme-stats.vercel.app/api?username=afraidias&show_icons=true)
+[![Afraidias's GitHub stats](https://github-readme-stats.vercel.app/api?username=afraidias&show_icons=true)](https://github.com/afraidias/afraidias)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afraidias&repo=devs-community)](https://github.com/afraidias/devs-community)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afraidias&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afraidias&layout=compact)](https://github.com/afraidias/afraidias)
