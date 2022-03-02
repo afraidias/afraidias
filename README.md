@@ -84,10 +84,9 @@
  </p>
 
 &nbsp;
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afraidias&show_icons=true&locale=en" alt="afraidias" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afraidias&" alt="afraidias" />
-</p>   
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=afraidias&show_icons=true&locale=en" alt="afraidias" />
+    
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afraidias&show_icons=true&locale=en&layout=compact" alt="afraidias" />
     
 
