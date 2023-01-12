@@ -29,3 +29,4 @@
 ![Express](https://img.shields.io/badge/-Express-f1f2f3?style=flat-square&logo=express&logoColor=333)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f1f2f3?style=flat-square&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-f1f2f3?style=flat-square&logo=MySQL)
+![IONIC](https://img.shields.io/badge/-Ionic-f1f2f3?style=flat-square&logo=Ionic)
