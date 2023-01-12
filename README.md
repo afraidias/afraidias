@@ -4,7 +4,7 @@
 
 💼 Actualmente trabajando en **Deloitte**<br>
 🚀 Actualmente aprendiendo **Salesforce** | **Angular**<br>
-👨🏻‍💻 Mi portfolio [https://afraidias.vercel.app](https://afraidias.vercel.app)<br>
+👨🏻‍💻 Mi portfolio [https://afraidias.github.io/website](afraidias.github.io/website)<br>
 📫 afraidiasmedina@gmail.com
 
 ## 🤙🏻 Contactame
