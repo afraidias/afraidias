@@ -1,4 +1,4 @@
-### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy Alberto | Front-End Developer
+# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy Alberto | Front-End Developer
 
 ## 👉🏻 Sobre mi
 
@@ -29,5 +29,3 @@
 ![Express](https://img.shields.io/badge/-Express-f1f2f3?style=flat-square&logo=express&logoColor=333)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f1f2f3?style=flat-square&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-f1f2f3?style=flat-square&logo=MySQL)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afraidias&show_icons=true&locale=en&layout=compact" alt="afraidias" />
