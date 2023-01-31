@@ -1,4 +1,4 @@
-# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy Alberto | Front-End Developer
+# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy Alberto Fraidías | Front-End Developer
 
 ## 👉🏻 Sobre mi
 
