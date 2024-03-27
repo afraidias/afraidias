@@ -8,7 +8,7 @@
 
 💼 Currently working on **Deloitte**<br>
 🚀 Learning **Angular** | **React**<br>
-👨🏻‍💻 My portfolio [afraidias](https://afraidias.github.io/website)<br>
+👨🏻‍💻 My portfolio [afraidias](https://afraidias.vercel.app)<br>
 📫 afraidiasmedina@gmail.com
 
 ###
