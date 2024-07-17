@@ -6,7 +6,7 @@
 
 ## 👉🏻 About me
 
-💼 Currently working on **Deloitte**<br>
+💼 Currently working on **Sopra Steria**<br>
 🚀 Learning **Angular** | **React**<br>
 👨🏻‍💻 My portfolio [afraidias](https://afraidias.vercel.app)<br>
 📫 afraidiasmedina@gmail.com
