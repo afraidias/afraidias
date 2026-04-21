@@ -10,7 +10,7 @@
 
 ### 🚀 Stack Tecnológico
 
-![Astro](https://img.shields.io/badge/Astro_5-000?style=for-the-badge&logo=astro) ![React](https://img.shields.io/badge/React_19-000?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular_21-000?style=for-the-badge&logo=angular)  
+![Astro](https://img.shields.io/badge/Astro_6-000?style=for-the-badge&logo=astro) ![React](https://img.shields.io/badge/React_19-000?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular_21-000?style=for-the-badge&logo=angular)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css) ![pnpm](https://img.shields.io/badge/pnpm-000?style=for-the-badge&logo=pnpm)
 
 ---
